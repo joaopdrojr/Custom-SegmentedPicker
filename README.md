@@ -1,4 +1,3 @@
-Custom Segmented Picker
 Este projeto é um exemplo simples em SwiftUI de um seletor personalizado (custom segmented picker) entre duas opções: Saudação e Despedida.
 Ele utiliza animações com matchedGeometryEffect para criar uma transição suave entre os botões selecionados.
 
